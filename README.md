@@ -1,1 +1,3 @@
-# roller-vibes-app-v2
+# Roller Vibes App V2
+
+App web progresiva para Roller Vibes MX La Paz.
